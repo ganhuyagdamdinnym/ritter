@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "photo": "yellow.jpeg",
+    "explanation": "",
+    "name": " RITTER SPORT Comflakes ",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 2,
+    "photo": "blue.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Alpine Milk Chocolate",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 3,
+    "photo": "traiben.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Raisins Hazelnuts",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 4,
+    "photo": "marzipan.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Marzipan",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 5,
+    "photo": "nugat.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Praline",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 6,
+    "photo": "pfer.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Peppermint",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 7,
+    "photo": "gallet.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Butter Biscuit",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 8,
+    "photo": "erdbeer.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Strawberry Yoghurt",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 9,
+    "photo": "cacao.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Cocoa Mousse",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 10,
+    "photo": "haselnuss.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Hazelnuts",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 11,
+    "photo": "dark.jpeg",
+    "explanation": "",
+    "name": " RITTER SPORT Dark Almond Orange",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 12,
+    "photo": "rum.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Rum Raisins Hazelnut",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 13,
+    "photo": "nuss.jpeg.jpg",
+    "explanation": "",
+    "name": "RITTER SPORT Whole Hazelnuts",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 14,
+    "photo": "dunkle.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Dark Whole Hazelnuts",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 15,
+    "photo": "wholealmonds.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Whole Almonds",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 16,
+    "photo": "honey.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Honey Salt Almonds",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 17,
+    "photo": "cashew.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Cashew",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 18,
+    "photo": "darkwhole.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT Dark Whole Almonds",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 19,
+    "photo": "smooth2.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT 55% SMOOTH from Ghana",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 20,
+    "photo": "fine.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT 55% SMOOTH from Ghana",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 21,
+    "photo": "intense.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT 55% SMOOTH from Ghana",
+    "unit price": "5500₮"
+  },
+  {
+    "id": 22,
+    "photo": "alpine.jpeg.jpg",
+    "explanation": "",
+    "name": "RITTER SPORT 55% SMOOTH from Ghana",
+    "unit price": "10900₮"
+  },
+  {
+    "id": 23,
+    "photo": "hazeee.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT 55% SMOOTH from Ghana",
+    "unit price": "10900₮"
+  },
+  {
+    "id": 24,
+    "photo": "gold.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT 55% SMOOTH from Ghana",
+    "unit price": "10900₮"
+  },
+  {
+    "id": 25,
+    "photo": "yogurt.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT 55% SMOOTH from Ghana",
+    "unit price": ""
+  },
+  {
+    "id": 26,
+    "photo": "happy.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT 55% SMOOTH from Ghana",
+    "unit price": ""
+  },
+  {
+    "id": 27,
+    "photo": "alpine2.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT 55% SMOOTH from Ghana",
+    "unit price": ""
+  },
+  {
+    "id": 28,
+    "photo": "mini.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT 55% SMOOTH from Ghana",
+    "unit price": ""
+  },
+  {
+    "id": 29,
+    "photo": "mix.jpeg",
+    "explanation": "",
+    "name": "RITTER SPORT 55% SMOOTH from Ghana",
+    "unit price": ""
+  }
+]
